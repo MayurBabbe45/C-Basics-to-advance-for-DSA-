@@ -1,0 +1,121 @@
+# Compiled Object files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.app
+
+# C++ Build Files
+*.gch
+*.pch
+
+# Debug files
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# CLion / IntelliJ
+.idea/
+cmake-build-*/
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+
+# Dev-C++
+*.dev
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.sln
+
+# MacOS Files
+.DS_Store
+
+# Windows Files
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Generated binaries
+a.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Notes
+*.pdf
+*.pptx
+
+# Environment files
+.env# Compiled Object files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.app
+
+# C++ Build Files
+*.gch
+*.pch
+
+# Debug files
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# CLion / IntelliJ
+.idea/
+cmake-build-*/
+
+# Code::Blocks
+*.layout
+*.depend
+*.cbp
+
+# Dev-C++
+*.dev
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.sln
+
+# MacOS Files
+.DS_Store
+
+# Windows Files
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Generated binaries
+a.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Notes
+*.pdf
+*.pptx
+
+# Environment files
+.env
